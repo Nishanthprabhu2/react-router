@@ -1,2 +1,2 @@
 # react-router
-fundamentals of react router v6 with hooks
+react router v6 with hooks
